@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Archivo 2 pruebita 5000
+=======
+Archivo 2 fue modificado por Francisco Gajardo.
+>>>>>>> 5f980c785f9b477840be55bf0f1b3a3dbcf3453d

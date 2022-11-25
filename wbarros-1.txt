@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Archivo 1
 Estamos generando conflictos en el mismo archivo
+=======
+Archivo 1 fue modificado por Francisco Gajardo.
+>>>>>>> 5f980c785f9b477840be55bf0f1b3a3dbcf3453d
